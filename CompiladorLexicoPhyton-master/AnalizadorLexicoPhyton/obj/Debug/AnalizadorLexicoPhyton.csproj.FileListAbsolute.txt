@@ -1,0 +1,13 @@
+C:\Users\Meneses\documents\visual studio 2017\Projects\AnalizadorLexicoPhyton\AnalizadorLexicoPhyton\bin\Debug\AnalizadorLexicoPhyton.exe.config
+C:\Users\Meneses\documents\visual studio 2017\Projects\AnalizadorLexicoPhyton\AnalizadorLexicoPhyton\bin\Debug\AnalizadorLexicoPhyton.exe
+C:\Users\Meneses\documents\visual studio 2017\Projects\AnalizadorLexicoPhyton\AnalizadorLexicoPhyton\bin\Debug\AnalizadorLexicoPhyton.pdb
+C:\Users\Meneses\documents\visual studio 2017\Projects\AnalizadorLexicoPhyton\AnalizadorLexicoPhyton\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Meneses\documents\visual studio 2017\Projects\AnalizadorLexicoPhyton\AnalizadorLexicoPhyton\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Meneses\documents\visual studio 2017\Projects\AnalizadorLexicoPhyton\AnalizadorLexicoPhyton\obj\Debug\AnalizadorLexicoPhyton.Form1.resources
+C:\Users\Meneses\documents\visual studio 2017\Projects\AnalizadorLexicoPhyton\AnalizadorLexicoPhyton\obj\Debug\AnalizadorLexicoPhyton.Properties.Resources.resources
+C:\Users\Meneses\documents\visual studio 2017\Projects\AnalizadorLexicoPhyton\AnalizadorLexicoPhyton\obj\Debug\AnalizadorLexicoPhyton.csproj.GenerateResource.Cache
+C:\Users\Meneses\documents\visual studio 2017\Projects\AnalizadorLexicoPhyton\AnalizadorLexicoPhyton\obj\Debug\AnalizadorLexicoPhyton.exe
+C:\Users\Meneses\documents\visual studio 2017\Projects\AnalizadorLexicoPhyton\AnalizadorLexicoPhyton\obj\Debug\AnalizadorLexicoPhyton.pdb
+C:\Users\Meneses\documents\visual studio 2017\Projects\AnalizadorLexicoPhyton\AnalizadorLexicoPhyton\obj\Debug\AnalizadorLexicoPhyton.Form2.resources
+C:\Users\Meneses\documents\visual studio 2017\Projects\AnalizadorLexicoPhyton\AnalizadorLexicoPhyton\bin\Debug\SyntaxHighlighter.dll
+C:\Users\Meneses\Documents\Visual Studio 2017\Projects\AnalizadorLexicoPhyton\AnalizadorLexicoPhyton\obj\Debug\AnalizadorLexicoPhyton.csprojResolveAssemblyReference.cache
